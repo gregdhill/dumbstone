@@ -1,0 +1,19 @@
+{
+  "name": "dumbstone",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "solts": "0.0.2",
+    "solc": "^0.6.2"
+  },
+  "dependencies": {
+    "@hyperledger/burrow": "file:/home/greg/go/src/github.com/hyperledger/burrow/js",
+    "ethereumjs-abi": "^0.6.8"
+  }
+}
